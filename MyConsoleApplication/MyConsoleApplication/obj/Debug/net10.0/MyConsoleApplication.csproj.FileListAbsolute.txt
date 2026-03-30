@@ -1,0 +1,14 @@
+C:\DOT NET Workspace\MyConsoleApplication\MyConsoleApplication\bin\Debug\net10.0\MyConsoleApplication.exe
+C:\DOT NET Workspace\MyConsoleApplication\MyConsoleApplication\bin\Debug\net10.0\MyConsoleApplication.deps.json
+C:\DOT NET Workspace\MyConsoleApplication\MyConsoleApplication\bin\Debug\net10.0\MyConsoleApplication.runtimeconfig.json
+C:\DOT NET Workspace\MyConsoleApplication\MyConsoleApplication\bin\Debug\net10.0\MyConsoleApplication.dll
+C:\DOT NET Workspace\MyConsoleApplication\MyConsoleApplication\bin\Debug\net10.0\MyConsoleApplication.pdb
+C:\DOT NET Workspace\MyConsoleApplication\MyConsoleApplication\obj\Debug\net10.0\MyConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\DOT NET Workspace\MyConsoleApplication\MyConsoleApplication\obj\Debug\net10.0\MyConsoleApplication.AssemblyInfoInputs.cache
+C:\DOT NET Workspace\MyConsoleApplication\MyConsoleApplication\obj\Debug\net10.0\MyConsoleApplication.AssemblyInfo.cs
+C:\DOT NET Workspace\MyConsoleApplication\MyConsoleApplication\obj\Debug\net10.0\MyConsoleApplication.csproj.CoreCompileInputs.cache
+C:\DOT NET Workspace\MyConsoleApplication\MyConsoleApplication\obj\Debug\net10.0\MyConsoleApplication.dll
+C:\DOT NET Workspace\MyConsoleApplication\MyConsoleApplication\obj\Debug\net10.0\refint\MyConsoleApplication.dll
+C:\DOT NET Workspace\MyConsoleApplication\MyConsoleApplication\obj\Debug\net10.0\MyConsoleApplication.pdb
+C:\DOT NET Workspace\MyConsoleApplication\MyConsoleApplication\obj\Debug\net10.0\MyConsoleApplication.genruntimeconfig.cache
+C:\DOT NET Workspace\MyConsoleApplication\MyConsoleApplication\obj\Debug\net10.0\ref\MyConsoleApplication.dll

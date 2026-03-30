@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DOT NET Workspace\\MyConsoleApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9C507C-2A92-4B5E-8CC9-E2DC0C4FFAD6}|MyConsoleApplication\\MyConsoleApplication.csproj|c:\\dot net workspace\\myconsoleapplication\\myconsoleapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F9C507C-2A92-4B5E-8CC9-E2DC0C4FFAD6}|MyConsoleApplication\\MyConsoleApplication.csproj|solutionrelative:myconsoleapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9C507C-2A92-4B5E-8CC9-E2DC0C4FFAD6}|MyConsoleApplication\\MyConsoleApplication.csproj|c:\\dot net workspace\\myconsoleapplication\\myconsoleapplication\\myclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F9C507C-2A92-4B5E-8CC9-E2DC0C4FFAD6}|MyConsoleApplication\\MyConsoleApplication.csproj|solutionrelative:myconsoleapplication\\myclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyClass.cs",
+              "DocumentMoniker": "C:\\DOT NET Workspace\\MyConsoleApplication\\MyConsoleApplication\\MyClass.cs",
+              "RelativeDocumentMoniker": "MyConsoleApplication\\MyClass.cs",
+              "ToolTip": "C:\\DOT NET Workspace\\MyConsoleApplication\\MyConsoleApplication\\MyClass.cs",
+              "RelativeToolTip": "MyConsoleApplication\\MyClass.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAgwFcAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T14:23:50.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DOT NET Workspace\\MyConsoleApplication\\MyConsoleApplication\\Program.cs",
+              "RelativeDocumentMoniker": "MyConsoleApplication\\Program.cs",
+              "ToolTip": "C:\\DOT NET Workspace\\MyConsoleApplication\\MyConsoleApplication\\Program.cs",
+              "RelativeToolTip": "MyConsoleApplication\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAADcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T14:22:13.061Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
