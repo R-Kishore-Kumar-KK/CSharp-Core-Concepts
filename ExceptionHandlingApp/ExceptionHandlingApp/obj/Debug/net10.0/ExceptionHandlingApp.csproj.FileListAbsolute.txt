@@ -1,0 +1,14 @@
+C:\DOT NET Workspace\ExceptionHandlingApp\ExceptionHandlingApp\bin\Debug\net10.0\ExceptionHandlingApp.exe
+C:\DOT NET Workspace\ExceptionHandlingApp\ExceptionHandlingApp\bin\Debug\net10.0\ExceptionHandlingApp.deps.json
+C:\DOT NET Workspace\ExceptionHandlingApp\ExceptionHandlingApp\bin\Debug\net10.0\ExceptionHandlingApp.runtimeconfig.json
+C:\DOT NET Workspace\ExceptionHandlingApp\ExceptionHandlingApp\bin\Debug\net10.0\ExceptionHandlingApp.dll
+C:\DOT NET Workspace\ExceptionHandlingApp\ExceptionHandlingApp\bin\Debug\net10.0\ExceptionHandlingApp.pdb
+C:\DOT NET Workspace\ExceptionHandlingApp\ExceptionHandlingApp\obj\Debug\net10.0\ExceptionHandlingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\DOT NET Workspace\ExceptionHandlingApp\ExceptionHandlingApp\obj\Debug\net10.0\ExceptionHandlingApp.AssemblyInfoInputs.cache
+C:\DOT NET Workspace\ExceptionHandlingApp\ExceptionHandlingApp\obj\Debug\net10.0\ExceptionHandlingApp.AssemblyInfo.cs
+C:\DOT NET Workspace\ExceptionHandlingApp\ExceptionHandlingApp\obj\Debug\net10.0\ExceptionHandlingApp.csproj.CoreCompileInputs.cache
+C:\DOT NET Workspace\ExceptionHandlingApp\ExceptionHandlingApp\obj\Debug\net10.0\ExceptionHandlingApp.dll
+C:\DOT NET Workspace\ExceptionHandlingApp\ExceptionHandlingApp\obj\Debug\net10.0\refint\ExceptionHandlingApp.dll
+C:\DOT NET Workspace\ExceptionHandlingApp\ExceptionHandlingApp\obj\Debug\net10.0\ExceptionHandlingApp.pdb
+C:\DOT NET Workspace\ExceptionHandlingApp\ExceptionHandlingApp\obj\Debug\net10.0\ExceptionHandlingApp.genruntimeconfig.cache
+C:\DOT NET Workspace\ExceptionHandlingApp\ExceptionHandlingApp\obj\Debug\net10.0\ref\ExceptionHandlingApp.dll
