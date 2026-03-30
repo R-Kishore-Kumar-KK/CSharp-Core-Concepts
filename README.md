@@ -1,60 +1,67 @@
-C# Fundamentals and Collections
-This repository contains structured and clean examples of C# programming concepts along with console-based implementations.
+# 📘 C# Fundamentals and Collections
 
-It is designed for:
-- Beginners learning C#
-- Developers revising core concepts
-- Interview preparation
+This repository contains structured and clean examples of **C# programming concepts** along with **console-based implementations**.
 
-Topics Covered:
+---
 
-Basics:
-- Variables and Data Types
-- Type Casting
-- Operators
+## 🎯 Purpose
 
-Control Statements:
-- If / Else
-- Switch Case
-- Loops (for, while, do-while, foreach)
+- Strengthen C# fundamentals  
+- Practice coding concepts  
+- Prepare for technical interviews  
 
-Object-Oriented Concepts:
-- Classes and Objects
-- Encapsulation
-- Inheritance
-- Polymorphism
+---
 
-Collections:
-- Array
-- ArrayList
-- List<T>
-- Hashtable
-- Dictionary<TKey, TValue>
-- Stack
-- Queue
+## 🚀 Who is this for?
 
-Project Structure
-/ConsoleApplication
-    Program.cs
-    VariablesExamples.cs
-    ControlStatements.cs
+- Beginners learning C#  
+- Developers revising core concepts  
+- Interview preparation  
 
-/Collections
-    ArrayExample.cs
-    ListExample.cs
-    DictionaryExample.cs
-    StackQueueExample.cs
-	
-Technologies Used
-C#, .NET, Console Application
+---
 
-How to Run
-1. Clone the repository
-2. Open in Visual Studio / VS Code
-3. Run using: dotnet run
+## 📚 Topics Covered
 
-Purpose
-To strengthen C# fundamentals, practice coding concepts, and prepare for technical interviews.
+### 🔹 Basics
+- Variables and Data Types  
+- Type Casting  
+- Operators  
 
-Author
-Kishore Kumar R
+### 🔹 Control Statements
+- If / Else  
+- Switch Case  
+- Loops (for, while, do-while, foreach)  
+
+### 🔹 Core Concepts (Foundation for OOP)
+- Classes and Structure  
+- Types of Variables (Member, Local, Parameter)  
+- Access Modifiers  
+- Modifiers (static, abstract, sealed, etc.)  
+- Member Functions (Constructor, Static, Instance)  
+- Return Types  
+- Properties (Normal & Auto-Implemented)  
+- Exception Handling  
+
+### 🔹 Collections
+- Array  
+- ArrayList  
+- List<T>  
+- Hashtable  
+- Dictionary<TKey, TValue>  
+- Stack (LIFO)  
+- Queue (FIFO)  
+
+---
+
+## 🛠 Technologies Used
+
+- C#    
+- Console Application  
+
+---
+
+## ▶️ How to Run
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/your-username/repo-name.git
