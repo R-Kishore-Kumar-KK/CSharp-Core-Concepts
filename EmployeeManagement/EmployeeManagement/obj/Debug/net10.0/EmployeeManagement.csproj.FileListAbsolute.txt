@@ -1,0 +1,14 @@
+C:\DOT NET Workspace\EmployeeManagement\EmployeeManagement\bin\Debug\net10.0\EmployeeManagement.exe
+C:\DOT NET Workspace\EmployeeManagement\EmployeeManagement\bin\Debug\net10.0\EmployeeManagement.deps.json
+C:\DOT NET Workspace\EmployeeManagement\EmployeeManagement\bin\Debug\net10.0\EmployeeManagement.runtimeconfig.json
+C:\DOT NET Workspace\EmployeeManagement\EmployeeManagement\bin\Debug\net10.0\EmployeeManagement.dll
+C:\DOT NET Workspace\EmployeeManagement\EmployeeManagement\bin\Debug\net10.0\EmployeeManagement.pdb
+C:\DOT NET Workspace\EmployeeManagement\EmployeeManagement\obj\Debug\net10.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\DOT NET Workspace\EmployeeManagement\EmployeeManagement\obj\Debug\net10.0\EmployeeManagement.AssemblyInfoInputs.cache
+C:\DOT NET Workspace\EmployeeManagement\EmployeeManagement\obj\Debug\net10.0\EmployeeManagement.AssemblyInfo.cs
+C:\DOT NET Workspace\EmployeeManagement\EmployeeManagement\obj\Debug\net10.0\EmployeeManagement.csproj.CoreCompileInputs.cache
+C:\DOT NET Workspace\EmployeeManagement\EmployeeManagement\obj\Debug\net10.0\EmployeeManagement.dll
+C:\DOT NET Workspace\EmployeeManagement\EmployeeManagement\obj\Debug\net10.0\refint\EmployeeManagement.dll
+C:\DOT NET Workspace\EmployeeManagement\EmployeeManagement\obj\Debug\net10.0\EmployeeManagement.pdb
+C:\DOT NET Workspace\EmployeeManagement\EmployeeManagement\obj\Debug\net10.0\EmployeeManagement.genruntimeconfig.cache
+C:\DOT NET Workspace\EmployeeManagement\EmployeeManagement\obj\Debug\net10.0\ref\EmployeeManagement.dll
