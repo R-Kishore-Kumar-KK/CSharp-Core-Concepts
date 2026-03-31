@@ -1,0 +1,14 @@
+C:\DOT NET Workspace\OopsConcepts\OopsConcepts\bin\Debug\net10.0\OopsConcepts.exe
+C:\DOT NET Workspace\OopsConcepts\OopsConcepts\bin\Debug\net10.0\OopsConcepts.deps.json
+C:\DOT NET Workspace\OopsConcepts\OopsConcepts\bin\Debug\net10.0\OopsConcepts.runtimeconfig.json
+C:\DOT NET Workspace\OopsConcepts\OopsConcepts\bin\Debug\net10.0\OopsConcepts.dll
+C:\DOT NET Workspace\OopsConcepts\OopsConcepts\bin\Debug\net10.0\OopsConcepts.pdb
+C:\DOT NET Workspace\OopsConcepts\OopsConcepts\obj\Debug\net10.0\OopsConcepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\DOT NET Workspace\OopsConcepts\OopsConcepts\obj\Debug\net10.0\OopsConcepts.AssemblyInfoInputs.cache
+C:\DOT NET Workspace\OopsConcepts\OopsConcepts\obj\Debug\net10.0\OopsConcepts.AssemblyInfo.cs
+C:\DOT NET Workspace\OopsConcepts\OopsConcepts\obj\Debug\net10.0\OopsConcepts.csproj.CoreCompileInputs.cache
+C:\DOT NET Workspace\OopsConcepts\OopsConcepts\obj\Debug\net10.0\OopsConcepts.dll
+C:\DOT NET Workspace\OopsConcepts\OopsConcepts\obj\Debug\net10.0\refint\OopsConcepts.dll
+C:\DOT NET Workspace\OopsConcepts\OopsConcepts\obj\Debug\net10.0\OopsConcepts.pdb
+C:\DOT NET Workspace\OopsConcepts\OopsConcepts\obj\Debug\net10.0\OopsConcepts.genruntimeconfig.cache
+C:\DOT NET Workspace\OopsConcepts\OopsConcepts\obj\Debug\net10.0\ref\OopsConcepts.dll
