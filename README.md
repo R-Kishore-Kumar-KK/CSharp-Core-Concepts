@@ -42,6 +42,30 @@ This repository contains structured and clean examples of **C# programming conce
 - Properties (Normal & Auto-Implemented)  
 - Exception Handling  
 
+### 🔹 Object-Oriented Programming (OOP)
+- Class and Object  
+- Encapsulation  
+- Abstraction  
+- Inheritance  
+- Polymorphism  
+- Message Passing  
+- Dynamic Binding  
+
+### 🔹 Interfaces
+- Interface Definition and Syntax  
+- Method Declarations (Abstract Methods)  
+- Interface Implementation  
+- Multiple Interface Implementation  
+- Implicit Implementation  
+- Explicit Implementation  
+
+### 🔹 Inheritance
+- Single Inheritance  
+- Multiple Inheritance (using Interfaces)  
+- Multilevel Inheritance  
+- Hierarchical Inheritance  
+- Hybrid Inheritance  
+
 ### 🔹 Collections
 - Array  
 - ArrayList  
@@ -65,3 +89,9 @@ This repository contains structured and clean examples of **C# programming conce
 1. Clone the repository  
    ```bash
    git clone https://github.com/your-username/repo-name.git
+   
+---
+
+👨‍💻 Author
+
+Kishore Kumar R
