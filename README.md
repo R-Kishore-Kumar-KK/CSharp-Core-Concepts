@@ -100,6 +100,6 @@ This repository contains structured and clean examples of **C# programming conce
    
 ---
 
-## ‍💻 Author
+👨‍💻 Author
 
 Kishore Kumar R
