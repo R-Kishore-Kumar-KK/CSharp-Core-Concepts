@@ -40,7 +40,7 @@ This repository contains structured and clean examples of **C# programming conce
 - Member Functions (Constructor, Static, Instance)  
 - Return Types  
 - Properties (Normal & Auto-Implemented)  
-- Exception Handling  
+- Exception Handling (try, catch, finally)  
 
 ### 🔹 Object-Oriented Programming (OOP)
 - Class and Object  
@@ -65,6 +65,14 @@ This repository contains structured and clean examples of **C# programming conce
 - Multilevel Inheritance  
 - Hierarchical Inheritance  
 - Hybrid Inheritance  
+
+### 🔹 Polymorphism
+- Compile-Time Polymorphism (Method Overloading)  
+- Runtime Polymorphism (Method Overriding)  
+
+### 🔹 Object Creation
+- Independent Object Creation  
+- Dependent Object Creation (Parent reference, Child object)  
 
 ### 🔹 Collections
 - Array  
@@ -92,6 +100,6 @@ This repository contains structured and clean examples of **C# programming conce
    
 ---
 
-👨‍💻 Author
+## ‍💻 Author
 
 Kishore Kumar R
