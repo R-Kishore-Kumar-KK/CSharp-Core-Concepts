@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DOT NET Workspace\\LINQApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74EF4D80-AB2A-4E2E-A558-C1CEC984DF59}|LINQApplication\\LINQApplication.csproj|c:\\dot net workspace\\linqapplication\\linqapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74EF4D80-AB2A-4E2E-A558-C1CEC984DF59}|LINQApplication\\LINQApplication.csproj|solutionrelative:linqapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74EF4D80-AB2A-4E2E-A558-C1CEC984DF59}|LINQApplication\\LINQApplication.csproj|c:\\dot net workspace\\linqapplication\\linqapplication\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74EF4D80-AB2A-4E2E-A558-C1CEC984DF59}|LINQApplication\\LINQApplication.csproj|solutionrelative:linqapplication\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74EF4D80-AB2A-4E2E-A558-C1CEC984DF59}|LINQApplication\\LINQApplication.csproj|c:\\dot net workspace\\linqapplication\\linqapplication\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74EF4D80-AB2A-4E2E-A558-C1CEC984DF59}|LINQApplication\\LINQApplication.csproj|solutionrelative:linqapplication\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\DOT NET Workspace\\LINQApplication\\LINQApplication\\Department.cs",
+              "RelativeDocumentMoniker": "LINQApplication\\Department.cs",
+              "ToolTip": "C:\\DOT NET Workspace\\LINQApplication\\LINQApplication\\Department.cs",
+              "RelativeToolTip": "LINQApplication\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T17:20:48.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\DOT NET Workspace\\LINQApplication\\LINQApplication\\Employee.cs",
+              "RelativeDocumentMoniker": "LINQApplication\\Employee.cs",
+              "ToolTip": "C:\\DOT NET Workspace\\LINQApplication\\LINQApplication\\Employee.cs",
+              "RelativeToolTip": "LINQApplication\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T17:19:37.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DOT NET Workspace\\LINQApplication\\LINQApplication\\Program.cs",
+              "RelativeDocumentMoniker": "LINQApplication\\Program.cs",
+              "ToolTip": "C:\\DOT NET Workspace\\LINQApplication\\LINQApplication\\Program.cs",
+              "RelativeToolTip": "LINQApplication\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAAEIAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T16:51:27.864Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

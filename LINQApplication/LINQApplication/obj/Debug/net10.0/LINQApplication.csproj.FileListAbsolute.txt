@@ -1,0 +1,14 @@
+C:\DOT NET Workspace\LINQApplication\LINQApplication\bin\Debug\net10.0\LINQApplication.exe
+C:\DOT NET Workspace\LINQApplication\LINQApplication\bin\Debug\net10.0\LINQApplication.deps.json
+C:\DOT NET Workspace\LINQApplication\LINQApplication\bin\Debug\net10.0\LINQApplication.runtimeconfig.json
+C:\DOT NET Workspace\LINQApplication\LINQApplication\bin\Debug\net10.0\LINQApplication.dll
+C:\DOT NET Workspace\LINQApplication\LINQApplication\bin\Debug\net10.0\LINQApplication.pdb
+C:\DOT NET Workspace\LINQApplication\LINQApplication\obj\Debug\net10.0\LINQApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\DOT NET Workspace\LINQApplication\LINQApplication\obj\Debug\net10.0\LINQApplication.AssemblyInfoInputs.cache
+C:\DOT NET Workspace\LINQApplication\LINQApplication\obj\Debug\net10.0\LINQApplication.AssemblyInfo.cs
+C:\DOT NET Workspace\LINQApplication\LINQApplication\obj\Debug\net10.0\LINQApplication.csproj.CoreCompileInputs.cache
+C:\DOT NET Workspace\LINQApplication\LINQApplication\obj\Debug\net10.0\LINQApplication.dll
+C:\DOT NET Workspace\LINQApplication\LINQApplication\obj\Debug\net10.0\refint\LINQApplication.dll
+C:\DOT NET Workspace\LINQApplication\LINQApplication\obj\Debug\net10.0\LINQApplication.pdb
+C:\DOT NET Workspace\LINQApplication\LINQApplication\obj\Debug\net10.0\LINQApplication.genruntimeconfig.cache
+C:\DOT NET Workspace\LINQApplication\LINQApplication\obj\Debug\net10.0\ref\LINQApplication.dll
