@@ -1,0 +1,14 @@
+C:\DOT NET Workspace\DelegateApplication\DelegateApplication\bin\Debug\net10.0\DelegateApplication.exe
+C:\DOT NET Workspace\DelegateApplication\DelegateApplication\bin\Debug\net10.0\DelegateApplication.deps.json
+C:\DOT NET Workspace\DelegateApplication\DelegateApplication\bin\Debug\net10.0\DelegateApplication.runtimeconfig.json
+C:\DOT NET Workspace\DelegateApplication\DelegateApplication\bin\Debug\net10.0\DelegateApplication.dll
+C:\DOT NET Workspace\DelegateApplication\DelegateApplication\bin\Debug\net10.0\DelegateApplication.pdb
+C:\DOT NET Workspace\DelegateApplication\DelegateApplication\obj\Debug\net10.0\DelegateApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\DOT NET Workspace\DelegateApplication\DelegateApplication\obj\Debug\net10.0\DelegateApplication.AssemblyInfoInputs.cache
+C:\DOT NET Workspace\DelegateApplication\DelegateApplication\obj\Debug\net10.0\DelegateApplication.AssemblyInfo.cs
+C:\DOT NET Workspace\DelegateApplication\DelegateApplication\obj\Debug\net10.0\DelegateApplication.csproj.CoreCompileInputs.cache
+C:\DOT NET Workspace\DelegateApplication\DelegateApplication\obj\Debug\net10.0\DelegateApplication.dll
+C:\DOT NET Workspace\DelegateApplication\DelegateApplication\obj\Debug\net10.0\refint\DelegateApplication.dll
+C:\DOT NET Workspace\DelegateApplication\DelegateApplication\obj\Debug\net10.0\DelegateApplication.pdb
+C:\DOT NET Workspace\DelegateApplication\DelegateApplication\obj\Debug\net10.0\DelegateApplication.genruntimeconfig.cache
+C:\DOT NET Workspace\DelegateApplication\DelegateApplication\obj\Debug\net10.0\ref\DelegateApplication.dll
