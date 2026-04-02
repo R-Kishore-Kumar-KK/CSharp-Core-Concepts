@@ -32,6 +32,8 @@ This repository contains structured and clean examples of **C# programming conce
 - Switch Case  
 - Loops (for, while, do-while, foreach)  
 
+---
+
 ### 🔹 Core Concepts (Foundation for OOP)
 - Classes and Structure  
 - Types of Variables (Member, Local, Parameter)  
@@ -42,6 +44,8 @@ This repository contains structured and clean examples of **C# programming conce
 - Properties (Normal & Auto-Implemented)  
 - Exception Handling (try, catch, finally)  
 
+---
+
 ### 🔹 Object-Oriented Programming (OOP)
 - Class and Object  
 - Encapsulation  
@@ -51,6 +55,8 @@ This repository contains structured and clean examples of **C# programming conce
 - Message Passing  
 - Dynamic Binding  
 
+---
+
 ### 🔹 Interfaces
 - Interface Definition and Syntax  
 - Method Declarations (Abstract Methods)  
@@ -59,6 +65,8 @@ This repository contains structured and clean examples of **C# programming conce
 - Implicit Implementation  
 - Explicit Implementation  
 
+---
+
 ### 🔹 Inheritance
 - Single Inheritance  
 - Multiple Inheritance (using Interfaces)  
@@ -66,13 +74,19 @@ This repository contains structured and clean examples of **C# programming conce
 - Hierarchical Inheritance  
 - Hybrid Inheritance  
 
+---
+
 ### 🔹 Polymorphism
 - Compile-Time Polymorphism (Method Overloading)  
 - Runtime Polymorphism (Method Overriding)  
 
+---
+
 ### 🔹 Object Creation
 - Independent Object Creation  
 - Dependent Object Creation (Parent reference, Child object)  
+
+---
 
 ### 🔹 Collections
 - Array  
@@ -85,9 +99,38 @@ This repository contains structured and clean examples of **C# programming conce
 
 ---
 
+### 🔹 Delegates & Events
+- Custom Delegates  
+- Built-in Delegates (Action, Func, Predicate)  
+- Event Handling (Publisher-Subscriber Model)  
+- Delegate vs Event  
+
+---
+
+### 🔹 Asynchronous Programming
+- async and await  
+- Task-based Programming  
+- Non-blocking Execution  
+- Parallel vs Sequential Execution  
+- Best Practices for Async  
+
+---
+
+### 🔹 LINQ (Language Integrated Query)
+- Filtering (Where)  
+- Projection (Select)  
+- Sorting (OrderBy, OrderByDescending)  
+- Aggregation (Count, Any, All)  
+- First / FirstOrDefault  
+- GroupBy  
+- Join  
+- Method Syntax vs Query Syntax  
+
+---
+
 ## 🛠 Technologies Used
 
-- C#    
+- C#  
 - Console Application  
 
 ---
