@@ -1,0 +1,14 @@
+C:\DOT NET Workspace\Async_Await_Application\Async_Await_Application\bin\Debug\net10.0\Async_Await_Application.exe
+C:\DOT NET Workspace\Async_Await_Application\Async_Await_Application\bin\Debug\net10.0\Async_Await_Application.deps.json
+C:\DOT NET Workspace\Async_Await_Application\Async_Await_Application\bin\Debug\net10.0\Async_Await_Application.runtimeconfig.json
+C:\DOT NET Workspace\Async_Await_Application\Async_Await_Application\bin\Debug\net10.0\Async_Await_Application.dll
+C:\DOT NET Workspace\Async_Await_Application\Async_Await_Application\bin\Debug\net10.0\Async_Await_Application.pdb
+C:\DOT NET Workspace\Async_Await_Application\Async_Await_Application\obj\Debug\net10.0\Async_Await_Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\DOT NET Workspace\Async_Await_Application\Async_Await_Application\obj\Debug\net10.0\Async_Await_Application.AssemblyInfoInputs.cache
+C:\DOT NET Workspace\Async_Await_Application\Async_Await_Application\obj\Debug\net10.0\Async_Await_Application.AssemblyInfo.cs
+C:\DOT NET Workspace\Async_Await_Application\Async_Await_Application\obj\Debug\net10.0\Async_Await_Application.csproj.CoreCompileInputs.cache
+C:\DOT NET Workspace\Async_Await_Application\Async_Await_Application\obj\Debug\net10.0\Async_Await_Application.dll
+C:\DOT NET Workspace\Async_Await_Application\Async_Await_Application\obj\Debug\net10.0\refint\Async_Await_Application.dll
+C:\DOT NET Workspace\Async_Await_Application\Async_Await_Application\obj\Debug\net10.0\Async_Await_Application.pdb
+C:\DOT NET Workspace\Async_Await_Application\Async_Await_Application\obj\Debug\net10.0\Async_Await_Application.genruntimeconfig.cache
+C:\DOT NET Workspace\Async_Await_Application\Async_Await_Application\obj\Debug\net10.0\ref\Async_Await_Application.dll
